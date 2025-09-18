@@ -5,6 +5,11 @@ Two minimal Flask services demonstrating a microservices architecture:
 - **User Service** (`user_service.py`) on port **5001**
 - **Order Service** (`order_service.py`) on port **5002** which calls the User Service
 
+**Screenshots:**
+  ![API call success](screenshots/Screenshot%202025-09-18%20125946.png)
+  ![API call success](screenshots/Screenshot%202025-09-18%20130157.png)
+  ![API call success](screenshots/Screenshot%202025-09-18%20130344.png)
+  
 ## Quickstart (Windows, PowerShell)
 
 ```powershell
